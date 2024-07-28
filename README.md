@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashvini Sharma</h1>
-<img src='212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif' alt='developerImg' >
+<img align='right' src='[212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)' alt='developerImg' >
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **React Projects**
