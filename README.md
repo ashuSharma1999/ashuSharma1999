@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **.net, react ,sql**
+- 🌱 I’m currently learning ** React Js,sql, Node Js, Express Js**
 
 - 👯 I’m looking to collaborate on **Open source contribution**
 
 - 🤝 I’m looking for help with **MERN**
 
-- 💬 Ask me about **mongoDB**
+- 💬 Ask me about **React Js**
 
 - 📫 How to reach me **ashvinisharma1999@gmail.com**
 
