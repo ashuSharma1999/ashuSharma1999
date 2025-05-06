@@ -30,10 +30,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashuSharma1999&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp; &nbsp; 
+![](https://github-readme-stats.vercel.app/api?username=ashuSharma1999&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ashuSharma1999&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuSharma1999&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ashuSharma1999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashuSharma1999" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashusharma1999&show_icons=true&locale=en&layout=compact" alt="ashusharma1999" /></p>
+<p><a href="https://www.buymeacoffee.com/ashuSharma1999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashuSharma1999" /></a></p>
