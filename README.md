@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning ** React Js,sql, Node Js, Express Js**
+- 🌱 I’m currently learning ** Mongo, sql, Node Js, Express Js**
 
 - 👯 I’m looking to collaborate on **Open source contribution**
 
